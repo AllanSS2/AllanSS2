@@ -3,7 +3,7 @@
 - Atualmente estudante de Análise e Desenvolvimento de Sistemas no [@Senac](https://www.sp.senac.br/cursos-livres?gad_source=1&gclid=Cj0KCQjww5u2BhDeARIsALBuLnOT647FOVAqc2_1f0tnf1rvRN2DKchSsnB3d2S0S1bkm8ChvnqleDIaAi2xEALw_wcB).
 
 ## 💻Redes Socias
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/allan-sampa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-sampaio-b44226252/?trk=opento_sprofile_details)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allan.sampaio5/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:allansampa49@gmail.com)
 
